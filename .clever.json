@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_a49cf7b8-8cf0-4763-9fd8-e20d08038e4f",
+      "org_id": "user_3ea56dea-4e82-4534-b9c9-3cd094f5f99b",
+      "deploy_url": "https://push-par-clevercloud-customers.services.clever-cloud.com/app_a49cf7b8-8cf0-4763-9fd8-e20d08038e4f.git",
+      "name": "rails-garden-manager",
+      "alias": "rails-garden-manager"
+    }
+  ]
+}
